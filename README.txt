@@ -2,6 +2,7 @@ Abstract: We propose two approaches of locally adaptive activation functions nam
 
 
 1. LAAF_FunApproxi.py gives the self explanatory LAAF python code for 1D function approximation. For more details about the test case please refer our paper "AD Jagtap, K Kawaguchi, GE Karniadakis, Locally adaptive activation functions with slope recovery term for deep and physics-informed neural networks, arXiv preprint arXiv:1909.12228, 2019."
+
 2. Deep_Learnig_Benchmark.zip is the set of python code, which implements locally adaptive activation functions. Please read "README_DeepLearningBenchmarks.txt" for more details.
    
 
