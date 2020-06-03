@@ -2,7 +2,7 @@ Abstract: We propose two approaches of locally adaptive activation functions nam
 
 
 1. LAAF_FunApproxi.py gives the LAAF python code for 1D function approximation.
-2. Deep_Learnig_Benchmarks is the python code which implements locally adaptive activation functions 
+2. Deep_Learnig_Benchmark is the python code which implements locally adaptive activation functions 
    
 
 
