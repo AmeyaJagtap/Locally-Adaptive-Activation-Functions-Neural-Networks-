@@ -41,5 +41,6 @@ If you make use of the code or the idea/algorithm in your work, please cite our 
        journal={Neurocomputing},
        volume={468},
        pages={165--180},
-       year={2022}
+       year={2022},
+       publisher={Elsevier}
        }
